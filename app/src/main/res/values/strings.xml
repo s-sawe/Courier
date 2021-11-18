@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Courier App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin">SignIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="we_deliver_at_your_doorstep">We Deliver At Your Doorstep</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="location">Location</string>
+    <string name="settings">Settings</string>
+</resources>
