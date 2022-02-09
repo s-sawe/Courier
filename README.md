@@ -1,5 +1,5 @@
 # Courier
-The app involves the login/register screen, vehicle type, package type, google maps API, and M-Pesa API
+The app includes the login/register screens, request delivery screens, and integrates google maps API and M-Pesa API
 Uses Kotlin
 ![login](https://user-images.githubusercontent.com/84079256/153154890-108d0f82-b1da-4369-9382-53f8455196dd.png)
 ![dash](https://user-images.githubusercontent.com/84079256/153154907-ac5efd50-caa5-4b84-a117-c817c60134d7.png)
