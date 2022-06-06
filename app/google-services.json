@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766093461420",
+    "project_id": "final-straw-d97cc",
+    "storage_bucket": "final-straw-d97cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766093461420:android:91734671010549fa20dc09",
+        "android_client_info": {
+          "package_name": "com.example.finalstraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766093461420-l924tp6oq8rb7p95bmuhf8u5n4g4vspr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk59BNO7UBBudPHabVMgaBwgyi9maRgTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766093461420-l924tp6oq8rb7p95bmuhf8u5n4g4vspr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

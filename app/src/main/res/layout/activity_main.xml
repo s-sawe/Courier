@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnUser"
+        android:layout_width="110dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="272dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginBottom="267dp"
+        android:backgroundTint="#010727"
+        android:fontFamily="@font/roboto_slab_bold"
+        android:text="@string/user"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:cornerRadius="15dp" />
+
+    <Button
+        android:id="@+id/btnAdmin"
+        android:layout_width="110dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="376dp"
+        android:backgroundTint="#010727"
+        android:fontFamily="@font/roboto_slab_bold"
+        android:text="@string/admin"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:cornerRadius="15dp" />
+
+</RelativeLayout>
