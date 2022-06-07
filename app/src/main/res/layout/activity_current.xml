@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Current">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="100dp"
+        android:text="@string/fill_the_form_below_for_delivery_request"
+        android:textSize="20sp"
+        android:fontFamily="@font/roboto_slab_bold"
+        android:textAlignment="center"
+
+        />
+
+    <EditText
+        android:id="@+id/Consigner"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="200dp"
+        android:hint="@string/consigner"
+        android:inputType="text"
+
+        />
+    <EditText
+        android:autofillHints="name"
+        android:id="@+id/Consignee"
+        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="270dp"
+        android:hint="@string/consignee"
+
+        />
+
+    <EditText
+        android:id="@+id/Id"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="340dp"
+        android:hint="@string/id_number"
+        android:inputType="text"
+
+        />
+
+    <EditText
+        android:id="@+id/Pickup"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="410dp"
+        android:hint="@string/pickup_point"
+
+        />
+    <EditText
+        android:inputType="text"
+        android:id="@+id/Destination"
+        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="480dp"
+        android:hint="@string/destination_point"
+
+        />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="150dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="550dp"
+        android:backgroundTint="#010727"
+        android:fontFamily="@font/roboto_slab_bold"
+        android:text="@string/submit"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:cornerRadius="15dp" />
+
+</RelativeLayout>

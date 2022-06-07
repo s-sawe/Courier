@@ -1,0 +1,53 @@
+<resources>
+
+
+    <string name="app_name">Final Straw</string>
+    <string name="courier_delivery">Courier Delivery</string>
+    <string name="current_order">Current Order</string>
+    <string name="place_order">Place Order</string>
+    <string name="driver">Driver</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="settings">Settings</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="user">User</string>
+    <string name="admin">Admin</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="destination_point">Destination Point</string>
+    <string name="submit">Submit</string>
+    <string name="pickup_point">Pickup Point</string>
+    <string name="id_number">ID Number</string>
+    <string name="consignee">Consignee</string>
+    <string name="consigner">Consigner</string>
+    <string name="fill_the_form_below_for_delivery_request">Fill The Form Below For Delivery Request</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="id">Id</string>
+    <string name="ID" />
+    <string name="view_current_order">View Current Order</string>
+    <string name="enter_order_id_to_view_status">Enter Order ID To View Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_input_issue_here">Please Input Issue Here</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="fill_the_form_below_to_report_issue">Fill The Form Below To Report Issue</string>
+    <string name="logout">Logout</string>
+    <string name="receiver">Receiver</string>
+    <string name="sender">Sender</string>
+    <string name="order_id">Order ID</string>
+    <string name="destination">Destination</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="welcome_pal">Welcome Pal</string>
+    <string name="view_orders">View Orders</string>
+    <string name="delete_orders">Delete Orders</string>
+    <string name="issues_reported">Issues Reported</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_order">Update Order</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="edit_text">Edit Text</string>
+
+</resources>
