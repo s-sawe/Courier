@@ -1,6 +1,9 @@
 # Courier
-The app includes the login/register screens, request delivery screens, and integrates google maps API and M-Pesa API
-Uses Kotlin
+The app makes use of M-Pesa Daraja API and Google Maps API.
+The app also uses Firebase Technologies like Firebase Storage and Firebase Authentication.
+The Google Maps API allows small omnichannel retailers (Who are users in this case) to view the location of the rider.
+The M-Pesa Daraja API allows the implementation of Till Payments to facilitate the payment for the services rendered/to be rendered.
+
 ![login](https://user-images.githubusercontent.com/84079256/153154890-108d0f82-b1da-4369-9382-53f8455196dd.png)
 ![dash](https://user-images.githubusercontent.com/84079256/153154907-ac5efd50-caa5-4b84-a117-c817c60134d7.png)
 ![update](https://user-images.githubusercontent.com/84079256/153154941-53b980c5-afe4-4988-8286-04dc37b9293c.png)
